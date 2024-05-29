@@ -1,0 +1,1 @@
+{"name":"Local: aaaa","url":"c:\\myDrive\\new_start\\aaaa.cpp","tests":[{"id":1689581778727,"input":"6\n1\n2\n3\n4\n2\n3\n4\n2\n3\n0\n7\n8\n4\n5\n2\n9\n5\n4\n3\n1\n6\n4\n1\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\myDrive\\new_start\\aaaa.cpp","group":"local","local":true}

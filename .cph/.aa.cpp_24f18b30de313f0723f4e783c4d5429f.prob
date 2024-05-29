@@ -1,0 +1,1 @@
+{"name":"Local: aa","url":"c:\\myDrive\\new_start\\aa.cpp","tests":[{"id":1688049585678,"input":"1\n17 9 1\n","output":"\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\myDrive\\new_start\\aa.cpp","group":"local","local":true}

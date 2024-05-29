@@ -1,0 +1,1 @@
+{"name":"Local: bbb","url":"c:\\myDrive\\new_start\\bbb.cpp","tests":[{"id":1688053146268,"input":"3\n3 1\n1 3\n6 4\n5 2\n2 2\n7 2\n1 1\n4 3\n5 5","output":"3\n1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\myDrive\\new_start\\bbb.cpp","group":"local","local":true}

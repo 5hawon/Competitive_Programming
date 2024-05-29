@@ -1,0 +1,1 @@
+{"name":"Local: cfa","url":"c:\\myDrive\\new_start\\cfa.cpp","tests":[{"id":1699022531235,"input":"3\n5 7 2\n10 5 0\n5 8 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\myDrive\\new_start\\cfa.cpp","group":"local","local":true}

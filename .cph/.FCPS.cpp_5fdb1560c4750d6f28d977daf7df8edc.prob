@@ -1,0 +1,1 @@
+{"name":"Local: FCPS","url":"c:\\myDrive\\new_start\\FCPS.cpp","tests":[{"id":1684223002729,"input":"5\n2 6\n5 2\n1 8\n0 3\n4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\myDrive\\new_start\\FCPS.cpp","group":"local","local":true}

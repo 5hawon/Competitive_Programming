@@ -1,0 +1,1 @@
+{"name":"Local: B_Jumbo_extra_cheese","url":"c:\\myDrive\\new_start\\B_Jumbo_extra_cheese.cpp","tests":[{"id":1683621086852,"input":"3\n4\n4 1\n4 5\n1 1\n2 3\n3\n2 4\n2 6\n2 3\n1\n2 65","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\myDrive\\new_start\\B_Jumbo_extra_cheese.cpp","group":"local","local":true}
